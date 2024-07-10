@@ -11,4 +11,4 @@
 <b>Dataset Used:</b>
 - LendingClub Loan Default Dataset from Kaggle
 
-<b>Connect with me on Linkedin: [Jason Leung](https://www.linkedin.com/in/jasonleunghp/)</b># ai200_capstone_2024
+<b>Connect with me on Linkedin: [Jason Leung](https://www.linkedin.com/in/jasonleunghp/)</b>
